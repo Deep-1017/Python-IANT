@@ -1,6 +1,13 @@
 text = "Hello, World! My name, is Python."
 
-print(text.split(","))
+
+str1 = "10"
+str2 = 20
+
+str3 = str1 + str(str2)
+print(str3)
+
+# print(text.split(","))
 
 # print(text.replace("Hello", "Hi"))
 # print(text.upper())
@@ -20,7 +27,7 @@ print(text.split(","))
 
 
 
-lengthOfA = len(text)
+# lengthOfA = len(text)
 # print(lengthOfA)
 
 # print("Python" in a)
