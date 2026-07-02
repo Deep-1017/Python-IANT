@@ -1,1 +1,7 @@
 OOP = Object Oriented Programming
+
+4 Pillars of OOPs
+    Encapsulation
+    Inheritance
+    Polymorphism
+    Abstraction
